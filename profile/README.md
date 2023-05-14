@@ -16,6 +16,8 @@ Nous sommes un éditeur marocain de logiciels de gestion, offrant des solutions 
 
 - **Servo** : Gestion commerciale sur le Web en mode SAAS, optimisée pour une utilisation dans le cloud et offrant une expérience utilisateur inégalée. [Plus d'informations](https://devstation.org/produits/servo-cloud/).
 
+- **Se2vo (Bientôt disponible)** : Découvrez Se2vo — la nouvelle version de Servo conçue pour révolutionner la gestion commerciale en ligne. Restez à l'écoute pour plus d'informations sur cette solution innovante.
+
 ## Nous contacter
 
 Pour en savoir plus sur nos produits et services, veuillez visiter [devstation.org](http://devstation.org).
