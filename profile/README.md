@@ -1,7 +1,5 @@
 # Bienvenue chez Devstation!
 
-![Devstation Logo](https://devstation.org/wp-content/uploads/2021/05/logo.png)
-
 Nous sommes un éditeur marocain de logiciels de gestion, offrant des solutions pour optimiser et personnaliser les entreprises de toutes tailles. Chez Devstation, nous mettons l'accent sur l'innovation et la satisfaction client.
 
 ## Nos produits
